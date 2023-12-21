@@ -1,0 +1,104 @@
+{
+    "describe": 1813626028, 
+    "editor_res": false, 
+    "key": 200936, 
+    "map_name": "h70t1", 
+    "model_id": 503000, 
+    "name": -1836378389, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Hero", 
+            "code_Modern", 
+            "code_Asia", 
+            "code_Female", 
+            "code_Adult", 
+            "code_Strong", 
+            "code_Grey"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/200936", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200936"
+}

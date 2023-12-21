@@ -1,0 +1,94 @@
+{
+    "group": [], 
+    "key": -1, 
+    "key_order": {
+        "2LNCADpOEe2oD3C16EKB6o": 4, 
+        "BIRAoT4tEe2A83C16EKB6j": 0, 
+        "FUd6bjo-Ee2nFHC16EKB6i": 2, 
+        "Gfo-wJV-Ee6bWZiP4GCgpd": 6, 
+        "LFXb4TpcEe26l3C16EKB6j": 1, 
+        "Zc8oEZcQEe6dXJiP4GCgpU": 11, 
+        "sJePIT4DEe24O3C16EKB6i": 5, 
+        "yL6MUUBsEe2nv3C16EKB6v": 3
+    }, 
+    "name": "trigger", 
+    "sub_trigger": {
+        "7": {
+            "__tuple__": true, 
+            "items": [
+                761004061, 
+                "\u6361\u5357\u74dc"
+            ]
+        }, 
+        "8": {
+            "__tuple__": true, 
+            "items": [
+                1557585953, 
+                "\u6572\u95e8\u8774\u8776"
+            ]
+        }, 
+        "9": {
+            "__tuple__": true, 
+            "items": [
+                1693630501, 
+                "\u6361\u82b1"
+            ]
+        }, 
+        "10": {
+            "__tuple__": true, 
+            "items": [
+                162181161, 
+                "\u6572\u95e8\u9b54\u5973"
+            ]
+        }, 
+        "12": {
+            "__tuple__": true, 
+            "items": [
+                19972138, 
+                "\u6361\u91d1\u5e01"
+            ]
+        }, 
+        "13": {
+            "__tuple__": true, 
+            "items": [
+                306692139, 
+                "\u6361\u91d1\u5e01_2"
+            ]
+        }, 
+        "14": {
+            "__tuple__": true, 
+            "items": [
+                1296551980, 
+                "\u6361\u91d1\u5e01_3"
+            ]
+        }, 
+        "15": {
+            "__tuple__": true, 
+            "items": [
+                390586413, 
+                "\u6361\u91d1\u5e01_4"
+            ]
+        }, 
+        "16": {
+            "__tuple__": true, 
+            "items": [
+                1414000686, 
+                "\u6361\u91d1\u5e01_5"
+            ]
+        }, 
+        "17": {
+            "__tuple__": true, 
+            "items": [
+                1296564271, 
+                "\u6361\u91d1\u5e01_6"
+            ]
+        }, 
+        "18": {
+            "__tuple__": true, 
+            "items": [
+                826806320, 
+                "\u6361\u91d1\u5e01_7"
+            ]
+        }
+    }
+}

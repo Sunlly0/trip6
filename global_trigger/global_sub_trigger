@@ -1,0 +1,1860 @@
+{
+    "19972138": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 19972138000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            5
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 19972138000005, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 19972138000006, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000028
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 19972138000007, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000028
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 19972138000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 19972138000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 19972138, 
+        "trigger_name": "\u6361\u91d1\u5e01", 
+        "valid": true
+    }, 
+    "162181161": {
+        "action": [
+            {
+                "action_type": "SET_VARIABLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100030, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "STRING", 
+                                    "txt", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            {
+                                "arg_type": 100011, 
+                                "args_list": [
+                                    "b11baf73-b42b-4199-8c3f-14f7ac9ff55c"
+                                ], 
+                                "sub_type": 1
+                            }, 
+                            {
+                                "arg_type": 100003, 
+                                "args_list": [
+                                    "4"
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "GET_STRING_TABLE_VAR_1D"
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 162181161000007, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_UI_COMP_TEXT", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100070, 
+                        "args_list": [
+                            "075d9700-d104-49b4-8c9b-9f60cba8e264"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "STRING", 
+                                    "txt", 
+                                    "local"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 2
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 162181161000011, 
+                "enable": true
+            }, 
+            {
+                "action_type": "SET_UI_COMP_VISIBLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100070, 
+                        "args_list": [
+                            "437884f0-17ea-4a21-bf95-1f3d9747fb78"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 162181161000003, 
+                "enable": true
+            }, 
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134248567
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 162181161000014, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000012
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 162181161000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            33
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 162181161000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 162181161, 
+        "trigger_name": "\u6572\u95e8\u9b54\u5973", 
+        "valid": true
+    }, 
+    "306692139": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 306692139000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            6
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 306692139000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 306692139000005, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000029
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 306692139000006, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000029
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 306692139000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 306692139000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 306692139, 
+        "trigger_name": "\u6361\u91d1\u5e01_2", 
+        "valid": true
+    }, 
+    "390586413": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 390586413000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            8
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 390586413000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 390586413000005, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000031
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 390586413000006, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000031
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 390586413000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 390586413000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 390586413, 
+        "trigger_name": "\u6361\u91d1\u5e01_4", 
+        "valid": true
+    }, 
+    "761004061": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 761004061000242, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "SET_UI_COMP_VISIBLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100070, 
+                        "args_list": [
+                            "db1ba49d-23a3-4a7f-b05d-f2b3f6b890c5"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 761004061000128, 
+                "enable": true
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            3
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 761004061000021, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 761004061000171, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000003
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 761004061000263, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000003
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 761004061000216, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 761004061000007, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 761004061, 
+        "trigger_name": "\u6361\u5357\u74dc", 
+        "valid": true
+    }, 
+    "826806320": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 826806320000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            11
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 826806320000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 826806320000005, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000034
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 826806320000006, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000034
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 826806320000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 826806320000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 826806320, 
+        "trigger_name": "\u6361\u91d1\u5e01_7", 
+        "valid": true
+    }, 
+    "1296551980": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296551980000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            7
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296551980000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296551980000005, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000030
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296551980000006, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000030
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 1296551980000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1296551980000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1296551980, 
+        "trigger_name": "\u6361\u91d1\u5e01_3", 
+        "valid": true
+    }, 
+    "1296564271": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296564271000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            10
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296564271000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296564271000005, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000033
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1296564271000006, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000033
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 1296564271000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1296564271000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1296564271, 
+        "trigger_name": "\u6361\u91d1\u5e01_6", 
+        "valid": true
+    }, 
+    "1414000686": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1414000686000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            9
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1414000686000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1414000686000005, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000032
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1414000686000006, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000032
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 1414000686000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1414000686000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1414000686, 
+        "trigger_name": "\u6361\u91d1\u5e01_5", 
+        "valid": true
+    }, 
+    "1557585953": {
+        "action": [
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000009
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1557585953000025, 
+                "enable": true
+            }, 
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134248567
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 162181161000014, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
+                "args_list": [
+                    {
+                        "arg_type": 100000, 
+                        "args_list": [
+                            2.0
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "SET_UI_COMP_VISIBLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100025, 
+                                        "args_list": [
+                                            1
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100001, 
+                                        "args_list": [
+                                            false
+                                        ], 
+                                        "sub_type": 1
+                                    }, 
+                                    {
+                                        "arg_type": 100070, 
+                                        "args_list": [
+                                            "437884f0-17ea-4a21-bf95-1f3d9747fb78"
+                                        ], 
+                                        "sub_type": 1
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1557585953000031, 
+                                "enable": true
+                            }, 
+                            {
+                                "action_type": "SET_VARIABLE", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "UNIT_ENTITY", 
+                                                    "unit"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 11
+                                    }, 
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [
+                                            {
+                                                "arg_type": 100116, 
+                                                "args_list": [
+                                                    134272663
+                                                ], 
+                                                "sub_type": 1
+                                            }, 
+                                            {
+                                                "arg_type": 100004, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100006, 
+                                                        "args_list": [
+                                                            1
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "sub_type": "FIND_NEAREST_VALID_POSITION"
+                                            }, 
+                                            {
+                                                "arg_type": 100225, 
+                                                "args_list": [
+                                                    {
+                                                        "arg_type": 100000, 
+                                                        "args_list": [
+                                                            180.0
+                                                        ], 
+                                                        "sub_type": 1
+                                                    }
+                                                ], 
+                                                "sub_type": "GET_ANGLE_BY_FLOAT"
+                                            }, 
+                                            {
+                                                "arg_type": 100006, 
+                                                "args_list": [
+                                                    1
+                                                ], 
+                                                "sub_type": 1
+                                            }
+                                        ], 
+                                        "sub_type": "CREATE_UNIT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1557585953000007, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1557585953000044, 
+                "enable": true, 
+                "local_var": {
+                    "__tuple__": true, 
+                    "items": [
+                        {}, 
+                        {}
+                    ]
+                }
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000009
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 1557585953000021, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            33
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1557585953000014, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1557585953, 
+        "trigger_name": "\u6572\u95e8\u8774\u8776", 
+        "valid": true
+    }, 
+    "1693630501": {
+        "action": [
+            {
+                "action_type": "PLAY_SOUND_FOR_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100084, 
+                        "args_list": [
+                            134234713
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1693630501000003, 
+                "enable": true, 
+                "op_arg": [
+                    null, 
+                    null
+                ], 
+                "op_arg_enable": [
+                    false, 
+                    false
+                ]
+            }, 
+            {
+                "action_type": "SET_UI_COMP_VISIBLE", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            true
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100070, 
+                        "args_list": [
+                            "996d71bc-c7cd-4cdd-8337-6f6197772767"
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1693630501000004, 
+                "enable": true
+            }, 
+            {
+                "action_type": "REMOVE_ITEM", 
+                "args_list": [
+                    {
+                        "arg_type": 100031, 
+                        "args_list": [
+                            4
+                        ], 
+                        "sub_type": 3
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1693630501000005, 
+                "enable": true
+            }, 
+            {
+                "action_type": "DISPLAY_INFO_TO_PLAYER", 
+                "args_list": [
+                    {
+                        "arg_type": 100025, 
+                        "args_list": [
+                            1
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100003, 
+                        "args_list": [
+                            "\u5df2\u8fdb\u5165"
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100001, 
+                        "args_list": [
+                            false
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1693630501000006, 
+                "enable": false
+            }, 
+            {
+                "action_type": "REMOVE_AREA", 
+                "args_list": [
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000011
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "element_id": 1693630501000007, 
+                "enable": true
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100004, 
+                        "args_list": [
+                            {
+                                "arg_type": 100006, 
+                                "args_list": [
+                                    1
+                                ], 
+                                "sub_type": 1
+                            }
+                        ], 
+                        "sub_type": "UNIT_ENTITY_POINT"
+                    }, 
+                    {
+                        "arg_type": 100023, 
+                        "args_list": [
+                            1000000011
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "condition_type": "WHETHER_POINT_IN_AREA", 
+                "element_id": 1693630501000002, 
+                "enable": true
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 200220, 
+                        "args_list": [
+                            44
+                        ], 
+                        "sub_type": 1
+                    }
+                ], 
+                "element_id": 1693630501000001, 
+                "enable": true, 
+                "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+            }
+        ], 
+        "group_id": 0, 
+        "p_trigger_id": null, 
+        "trigger_id": 1693630501, 
+        "trigger_name": "\u6361\u82b1", 
+        "valid": true
+    }
+}

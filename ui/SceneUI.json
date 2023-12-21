@@ -1,0 +1,26 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "layout_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "ee2b62bc-2dd8-43d6-b755-84eaf0546dfb"
+        }
+    ], 
+    "name": "SceneUI", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "79d06d00-636f-4093-b6c6-fda25984bfe2", 
+    "visible": true, 
+    "zorder": 400
+}

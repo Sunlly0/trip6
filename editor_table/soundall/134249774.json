@@ -1,0 +1,39 @@
+{
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
+    "102": 0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 100, 
+    "_custom_": true, 
+    "_ref_": 134249774, 
+    "description": -545275550, 
+    "fade_in_time": 0, 
+    "fade_out_time": 0, 
+    "group": 0, 
+    "icon": 100000, 
+    "key": 134249774, 
+    "kv": {}, 
+    "max_dist": 1000, 
+    "min_dist": 0, 
+    "name": -982947764, 
+    "reward_official_res_1": 0.0, 
+    "sound_id": 1, 
+    "sound_id_list": [
+        {
+            "sound_id": 103352, 
+            "volume": 100
+        }
+    ], 
+    "speed": 1, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "total_time": 0.417361111111, 
+    "type": 1, 
+    "uid": "134249774", 
+    "volume": 100
+}

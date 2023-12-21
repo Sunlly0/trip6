@@ -1,0 +1,37 @@
+[
+ {
+  "__tuple__": true, 
+  "items": [
+   1, 
+   "GameConstent"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   4, 
+   "Map"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   5, 
+   "MapUnitKey"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "89da55fd-0e8b-4c57-b886-3b20a6932e56", 
+   "talk"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "b11baf73-b42b-4199-8c3f-14f7ac9ff55c", 
+   "guide"
+  ]
+ }
+]

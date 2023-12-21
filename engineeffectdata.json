@@ -1,0 +1,112 @@
+{
+    "base": {
+        "time": 6
+    }, 
+    "bloom": {
+        "bloom_decay": 0.5000000000000001, 
+        "bloom_open": true, 
+        "bloom_strength": 0.5000000000000001
+    }, 
+    "color_grading": {
+        "color_grading_type": 1
+    }, 
+    "env_time_of_day": {
+        "time_of_day_template": 300002
+    }, 
+    "fog": {
+        "color": {
+            "__tuple__": true, 
+            "items": [
+                96, 
+                149, 
+                206, 
+                255
+            ]
+        }, 
+        "density": 1, 
+        "end": 450, 
+        "height_begin": 0, 
+        "height_end": 100, 
+        "height_fog": false, 
+        "start": 300
+    }, 
+    "post_style": {
+        "post_style_shader_params": {
+            "1": {
+                "DepthScale": 0.79, 
+                "LineColor": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.05, 
+                        0.03, 
+                        0.03
+                    ]
+                }, 
+                "PixelIntensity": 2.0
+            }, 
+            "4": {
+                "DepthScale": 1.05, 
+                "LineColor": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ]
+                }, 
+                "TotalControl": 8.0
+            }
+        }, 
+        "post_style_type": 0
+    }, 
+    "shadow_quality": {
+        "enable_clicli_distance": true, 
+        "enable_ue4_csm": true
+    }, 
+    "sky_box": {
+        "sky_box_type": 100000
+    }, 
+    "terrain": {
+        "terrain_version": 2, 
+        "water_materials": [
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.043137254901960784, 
+                        0.09803921568627451, 
+                        0.2235294117647059, 
+                        1.0
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.5, 
+                "flow_speed": 0.71, 
+                "mat_id": 1, 
+                "name": "\u6c34", 
+                "original": true
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.947, 
+                        0.117, 
+                        0.007
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 0.0, 
+                "flow_perturbation": 0.3, 
+                "flow_speed": 0.2, 
+                "mat_id": 2, 
+                "name": "\u5ca9\u6d46", 
+                "original": true
+            }
+        ]
+    }, 
+    "vignetting": {
+        "vignetting_open": false
+    }
+}

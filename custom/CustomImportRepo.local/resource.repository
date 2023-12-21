@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Repository>
+<Items>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>066ebc9f-9db1-4b1e-bd4e-39b998f114c9</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134260637</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>18aadaa8-d345-4fb9-a145-b6a5a3345284</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134271456</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>374ee865-0216-40ea-ae21-5f9727de2104</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134281783</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>52f8f659-2716-4c7a-978c-346dbff21677</GUID><Package>ui</Package><Class>Texture2D</Class><Name>font_crit_get_gold</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>575b6b2d-a01e-47e8-b8db-b9df3e4fb077</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134257016</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>aba6bbcf-c3b9-48c0-af7c-7bbfb82a6d54</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134225296</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>bc38d53c-f024-4d4a-95c6-17e1a561598d</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134240738</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>bd7eba90-51ac-4b28-b82c-3604d2d01877</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134272055</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>c087605b-9592-49ee-85ac-0cd1e43862e7</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134224615</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>c27373ec-0f42-494f-81a9-0696d1b000c4</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134257341</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>c7aeb240-d1f6-4a70-923f-74e8b75691eb</GUID><Package>ui</Package><Class>Texture2D</Class><Name>134226809</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+<Item><Type>Texture</Type><Flags>256</Flags><GUID>e73a8811-1b02-4942-8e48-1611b7c2cc0c</GUID><Package>ui</Package><Class>Texture2D</Class><Name>font_normal_get_gold</Name><Annotation><SourcePath/><CreationTime>0</CreationTime></Annotation></Item>
+</Items>
+</Repository>

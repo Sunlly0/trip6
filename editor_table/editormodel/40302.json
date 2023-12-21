@@ -1,0 +1,14 @@
+{
+    "describe": -612115046, 
+    "essential_socket": {}, 
+    "key": 40302, 
+    "map_name": "G57\u4e09\u56fd\u5982\u9f99", 
+    "model_id": 40302, 
+    "name": 878882667, 
+    "preview_icon": "UP1ModelPreview/40302", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_40302"
+}

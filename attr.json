@@ -1,0 +1,200 @@
+{
+    "b": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "defense_mag", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u6cd5\u672f\u9632\u5fa1\u529b", 
+                    "maximun": 1000000000.0, 
+                    "minimun": -1000000000.0
+                }
+            ]
+        }
+    ], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_2", 
+                {
+                    "default": 0.0, 
+                    "desc": "velocityY", 
+                    "desc_bit": 1, 
+                    "key": "custom_2", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_3", 
+                {
+                    "default": 0.0, 
+                    "desc": "velocityZ", 
+                    "desc_bit": 1, 
+                    "key": "custom_3", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_4", 
+                {
+                    "default": 150.0, 
+                    "desc": "height", 
+                    "desc_bit": 1, 
+                    "key": "custom_4", 
+                    "maximun": 199.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_6", 
+                {
+                    "default": 0.0, 
+                    "desc": "moveAngle", 
+                    "desc_bit": 1, 
+                    "key": "custom_6", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_7", 
+                {
+                    "default": 0.0, 
+                    "desc": "moveAngleTemp", 
+                    "desc_bit": 1, 
+                    "key": "custom_7", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_11", 
+                {
+                    "default": 0.0, 
+                    "desc": "velocityX", 
+                    "desc_bit": 1, 
+                    "key": "custom_11", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_12", 
+                {
+                    "default": 0.0, 
+                    "desc": "X", 
+                    "desc_bit": 1, 
+                    "key": "custom_12", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_13", 
+                {
+                    "default": 0.0, 
+                    "desc": "Y", 
+                    "desc_bit": 1, 
+                    "key": "custom_13", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "custom_14", 
+                {
+                    "default": 0.0, 
+                    "desc": "Z", 
+                    "desc_bit": 1, 
+                    "key": "custom_14", 
+                    "maximun": 999999.0, 
+                    "minimun": -999999.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

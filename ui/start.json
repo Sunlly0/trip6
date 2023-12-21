@@ -1,0 +1,91 @@
+{
+    "adapt_mode": 2, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [], 
+            "image": 134272055, 
+            "name": "image_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "0b65ae0b-2800-483c-9950-3b417cf75fc8"
+        }, 
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "0b65ae0b-2800-483c-9950-3b417cf75fc8", 
+                            "ease_type": 0, 
+                            "name": "Hide_3", 
+                            "open_timeline": true, 
+                            "type": 3
+                        }, 
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "b92f6b11-a1ec-4862-afc7-ec839e47d33f", 
+                            "ease_type": 0, 
+                            "name": "Hide_4", 
+                            "open_timeline": true, 
+                            "type": 3
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "layout_1_0", 
+                    "sound_id": 110291, 
+                    "type": 2
+                }
+            ], 
+            "name": "layout_1", 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    1473.7265625, 
+                    207.38497924804688
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    76.756591796875, 
+                    19.202312893337673
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    297.0, 
+                    79.0
+                ]
+            }, 
+            "type": 7, 
+            "uid": "b92f6b11-a1ec-4862-afc7-ec839e47d33f"
+        }
+    ], 
+    "name": "start", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "9d0a3332-6a88-4532-8773-a1c4f232a9e5", 
+    "visible": false, 
+    "zorder": 400
+}

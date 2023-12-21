@@ -1,0 +1,1163 @@
+{
+    "local_variable": {
+        "80474130": {
+            "variable_dict": {
+                "FLOAT": {
+                    "RX": 0.0, 
+                    "RY": 0.0, 
+                    "RZ": 0.0, 
+                    "Xc": 0.0, 
+                    "Yc": 0.0, 
+                    "Zc": 0.0, 
+                    "accuracy": 0.0, 
+                    "accuracyX": 0.0, 
+                    "accuracyY": 0.0, 
+                    "accuracyZ": 0.0, 
+                    "heightOri": 0.0, 
+                    "heightOri+": 0.0, 
+                    "realTemp": 0.0, 
+                    "x": 0.0, 
+                    "xMax": 0.0, 
+                    "y": 0.0, 
+                    "yMax": 0.0, 
+                    "z": 0.0, 
+                    "zMax": 0.0
+                }, 
+                "INTEGER": {
+                    "int": 0, 
+                    "intMax": 0, 
+                    "loop": 0
+                }, 
+                "POINT": {
+                    "pointOri": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "RX": 0, 
+                "RY": 0, 
+                "RZ": 0, 
+                "Xc": 0, 
+                "Yc": 0, 
+                "Zc": 0, 
+                "accuracy": 0, 
+                "accuracyX": 0, 
+                "accuracyY": 0, 
+                "accuracyZ": 0, 
+                "heightOri": 0, 
+                "heightOri+": 0, 
+                "int": 0, 
+                "intMax": 0, 
+                "loop": 0, 
+                "pointOri": 0, 
+                "realTemp": 0, 
+                "unitLead": 0, 
+                "x": 10, 
+                "xMax": 10, 
+                "y": 10, 
+                "yMax": 10, 
+                "z": 10, 
+                "zMax": 10
+            }
+        }, 
+        "145862677": {
+            "variable_dict": {
+                "FLOAT": {
+                    "Rc": 0.0, 
+                    "Xc": 0.0, 
+                    "Xori": 0.0, 
+                    "Yc": 0.0, 
+                    "Yori": 0.0, 
+                    "Zc": 0.0, 
+                    "Zori": 0.0, 
+                    "x": 0.0, 
+                    "y": 0.0, 
+                    "z": 0.0
+                }, 
+                "POINT": {
+                    "pointTemp": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "Rc": 0, 
+                "Xc": 0, 
+                "Xori": 0, 
+                "Yc": 0, 
+                "Yori": 0, 
+                "Zc": 0, 
+                "Zori": 0, 
+                "pointTemp": 0, 
+                "x": 0, 
+                "y": 0, 
+                "z": 0
+            }
+        }, 
+        "162181161": {
+            "variable_dict": {
+                "STRING": {
+                    "txt": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "txt": 0
+            }
+        }, 
+        "246169623": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "bool": false
+                }, 
+                "FLOAT": {
+                    "R": 0.0, 
+                    "X": 0.0, 
+                    "Xori": 0.0, 
+                    "Y": 0.0, 
+                    "Yori": 0.0, 
+                    "Z": 0.0, 
+                    "Zori": 0.0, 
+                    "height": 0.0
+                }, 
+                "INTEGER": {
+                    "loopX": 0, 
+                    "loopY": 0, 
+                    "loopZ": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "CheckKey": "", 
+                    "KeyTemp": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CheckKey": 0, 
+                "KeyTemp": 0, 
+                "R": 10, 
+                "X": 0, 
+                "Xori": 0, 
+                "Y": 0, 
+                "Yori": 0, 
+                "Z": 0, 
+                "Zori": 0, 
+                "bool": 0, 
+                "height": 0, 
+                "loopX": 0, 
+                "loopY": 0, 
+                "loopZ": 0, 
+                "point": 0, 
+                "unit": 0
+            }
+        }, 
+        "320925718": {
+            "variable_dict": {
+                "FLOAT": {
+                    "X": 0.0, 
+                    "Y": 0.0, 
+                    "Z": 0.0, 
+                    "height": 0.0, 
+                    "heightOri": 0.0, 
+                    "heightOri+": 0.0
+                }, 
+                "PLAYER": {
+                    "playerLead": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointOri": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "project": 0
+                }, 
+                "STRING": {
+                    "CheckKeyTemp": "", 
+                    "Key0": "", 
+                    "Key1": "", 
+                    "KeyTemp": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CheckKeyTemp": 0, 
+                "Key0": 0, 
+                "Key1": 0, 
+                "KeyTemp": 0, 
+                "X": 0, 
+                "Y": 0, 
+                "Z": 0, 
+                "height": 0, 
+                "heightOri": 0, 
+                "heightOri+": 0, 
+                "playerLead": 0, 
+                "point": 0, 
+                "pointOri": 0, 
+                "project": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "391462946": {
+            "variable_dict": {
+                "INTEGER": {
+                    "intNext": 0, 
+                    "interactKey": 0
+                }, 
+                "STRING": {
+                    "txtTalk": ""
+                }, 
+                "TEXTURE": {
+                    "txtHead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "intNext": 0, 
+                "interactKey": 0, 
+                "txtHead": 0, 
+                "txtTalk": 0
+            }
+        }, 
+        "524398627": {
+            "variable_dict": {
+                "INTEGER": {
+                    "interactKey": 0, 
+                    "type": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "interactKey": 0, 
+                "type": 0
+            }
+        }, 
+        "547815455": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "UI_COMP": {
+                    "\u754c\u9762\u63a7\u4ef6": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "\u754c\u9762\u63a7\u4ef6": 0
+            }
+        }, 
+        "571977754": {
+            "variable_dict": {
+                "STRING": {
+                    "CheckKey": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CheckKey": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "654467096": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "bool": false
+                }, 
+                "FLOAT": {}, 
+                "POINT": {}, 
+                "STRING": {
+                    "CheckKey": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CheckKey": 0, 
+                "bool": 0, 
+                "unit": 0
+            }
+        }, 
+        "761004061": {
+            "variable_dict": {
+                "STRING": {}
+            }, 
+            "variable_length_dict": {}
+        }, 
+        "796635152": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "bool": false
+                }, 
+                "FLOAT": {
+                    "height": 0.0, 
+                    "heightAim": 0.0
+                }, 
+                "INTEGER": {
+                    "intID": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointAim": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "Key": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Key": 0, 
+                "bool": 0, 
+                "height": 0, 
+                "heightAim": 0, 
+                "intID": 0, 
+                "point": 0, 
+                "pointAim": 0, 
+                "unit": 0
+            }
+        }, 
+        "836468763": {
+            "variable_dict": {
+                "ANGLE": {
+                    "direction": 0.0, 
+                    "\u521d\u59cb\u955c\u5934\u5bfc\u822a\u89d2": 0.0
+                }, 
+                "BOOLEAN": {
+                    "isPress": false
+                }, 
+                "FLOAT": {
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "direction": 0, 
+                "isPress": 0, 
+                "x": 0, 
+                "y": 0, 
+                "\u521d\u59cb\u955c\u5934\u5bfc\u822a\u89d2": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "943935512": {
+            "variable_dict": {
+                "FLOAT": {
+                    "accuracy": 0.0, 
+                    "heightLead": 0.0
+                }, 
+                "PLAYER": {
+                    "playerLead": 0
+                }, 
+                "POINT": {
+                    "pointLead": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "accuracy": 0, 
+                "heightLead": 0, 
+                "playerLead": 0, 
+                "pointLead": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "953909276": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u79fb\u52a8\u65b9\u5411": 0.0
+                }, 
+                "FLOAT": {
+                    "offsetX": 0.0, 
+                    "offsetY": 0.0, 
+                    "\u672c\u5e27\u4f4d\u79fb": 0.0
+                }, 
+                "INTEGER": {
+                    "count": 0
+                }, 
+                "POINT": {
+                    "offsetPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "resultPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "count": 0, 
+                "offsetPoint": 0, 
+                "offsetX": 0, 
+                "offsetY": 0, 
+                "resultPoint": 0, 
+                "\u5355\u4f4d": 0, 
+                "\u672c\u5e27\u4f4d\u79fb": 0, 
+                "\u79fb\u52a8\u65b9\u5411": 0
+            }
+        }, 
+        "1013428226": {
+            "variable_dict": {
+                "FLOAT": {
+                    "X": 0.0, 
+                    "Y": 0.0, 
+                    "height": 0.0
+                }, 
+                "INTEGER": {
+                    "X+": 0, 
+                    "Y+": 0, 
+                    "intX": 0, 
+                    "intY": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointOri": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "Key": "", 
+                    "string": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Key": 0, 
+                "X": 0, 
+                "X+": 0, 
+                "Y": 0, 
+                "Y+": 0, 
+                "height": 0, 
+                "intX": 0, 
+                "intY": 0, 
+                "point": 0, 
+                "pointOri": 0, 
+                "string": 0
+            }
+        }, 
+        "1028202532": {
+            "variable_dict": {
+                "INTEGER": {
+                    "intKey": 0, 
+                    "intNext": 0
+                }, 
+                "STRING": {
+                    "txt": "", 
+                    "txtTalk": ""
+                }, 
+                "TEXTURE": {
+                    "txtHead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "intKey": 0, 
+                "intNext": 0, 
+                "txt": 0, 
+                "txtHead": 0, 
+                "txtTalk": 0
+            }
+        }, 
+        "1091391513": {
+            "variable_dict": {
+                "STRING": {
+                    "CheckKey": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CheckKey": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "1169760276": {
+            "variable_dict": {
+                "FLOAT": {
+                    "accuracy": 0.0, 
+                    "gravity": 0.0, 
+                    "heightLead": 0.0
+                }, 
+                "PLAYER": {
+                    "playerLead": 0
+                }, 
+                "POINT": {
+                    "pointLead": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "accuracy": 0, 
+                "gravity": 0, 
+                "heightLead": 0, 
+                "playerLead": 0, 
+                "pointLead": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "1172013082": {
+            "variable_dict": {
+                "ANGLE": {
+                    "direction": 0.0
+                }, 
+                "BOOLEAN": {
+                    "isPress": false
+                }, 
+                "FLOAT": {
+                    "fram": 0.0, 
+                    "initCameraHeight": 0.0, 
+                    "\u521d\u59cb\u955c\u5934\u9ad8\u5ea6": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "timer": -1
+                }, 
+                "PLAYER": {
+                    "\u73a9\u5bb6": 0
+                }, 
+                "POINT": {
+                    "aimPoint": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "aimPoint": 0, 
+                "direction": 0, 
+                "fram": 0, 
+                "initCameraHeight": 0, 
+                "isPress": 0, 
+                "timer": 0, 
+                "\u521d\u59cb\u955c\u5934\u9ad8\u5ea6": 0, 
+                "\u5355\u4f4d": 0, 
+                "\u73a9\u5bb6": 0
+            }
+        }, 
+        "1347985420": {
+            "variable_dict": {
+                "FLOAT": {
+                    "R*X": 0.0, 
+                    "R*Y": 0.0, 
+                    "R*Z": 0.0, 
+                    "RX": 0.0, 
+                    "RY": 0.0, 
+                    "RZ": 0.0, 
+                    "angle": 0.0, 
+                    "angleFriction": 0.0, 
+                    "distance": 0.0, 
+                    "friction": 0.0, 
+                    "gravity": 0.0, 
+                    "heightLead": 0.0
+                }, 
+                "PLAYER": {
+                    "playerLead": 0
+                }, 
+                "POINT": {
+                    "pointFriction": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointLead": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "CommandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CommandMode": 0, 
+                "R*X": 0, 
+                "R*Y": 0, 
+                "R*Z": 0, 
+                "RX": 0, 
+                "RY": 0, 
+                "RZ": 0, 
+                "angle": 0, 
+                "angleFriction": 0, 
+                "distance": 0, 
+                "friction": 0, 
+                "gravity": 0, 
+                "heightLead": 0, 
+                "playerLead": 0, 
+                "pointFriction": 0, 
+                "pointLead": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "1538359313": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "boolKey": false
+                }, 
+                "FLOAT": {
+                    "X": 0.0, 
+                    "Y": 0.0, 
+                    "Z": 0.0
+                }, 
+                "INTEGER": {}, 
+                "POINT": {}, 
+                "STRING": {
+                    "Key": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Key": 0, 
+                "X": 0, 
+                "Y": 0, 
+                "Z": 0, 
+                "boolKey": 0
+            }
+        }, 
+        "1598799883": {
+            "variable_dict": {
+                "FLOAT": {}, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "point2": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "point": 0, 
+                "point2": 0
+            }
+        }, 
+        "1679384591": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "bool": false
+                }, 
+                "FLOAT": {
+                    "height": 0.0, 
+                    "heightAim": 0.0
+                }, 
+                "INTEGER": {
+                    "intID": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointAim": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "Key": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Key": 0, 
+                "bool": 0, 
+                "height": 0, 
+                "heightAim": 0, 
+                "intID": 0, 
+                "point": 0, 
+                "pointAim": 0, 
+                "unit": 0
+            }
+        }, 
+        "1706250262": {
+            "variable_dict": {
+                "FLOAT": {
+                    "angle": 0.0, 
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "POINT": {
+                    "pointTemp": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {}
+            }, 
+            "variable_length_dict": {
+                "angle": 0, 
+                "pointTemp": 0, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "1745309717": {
+            "variable_dict": {
+                "FLOAT": {
+                    "moveAngle": 0.0, 
+                    "moveAngleTemp": 0.0
+                }, 
+                "STRING": {
+                    "CommandMode": "", 
+                    "CommandModeTemp": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "CommandMode": 0, 
+                "CommandModeTemp": 0, 
+                "moveAngle": 0, 
+                "moveAngleTemp": 0, 
+                "unitLead": 0
+            }
+        }, 
+        "1779290119": {
+            "variable_dict": {
+                "FLOAT": {
+                    "X": 0.0, 
+                    "Y": 0.0, 
+                    "height": 0.0
+                }, 
+                "INTEGER": {
+                    "int": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "string": "", 
+                    "string+": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "X": 0, 
+                "Y": 0, 
+                "height": 0, 
+                "int": 0, 
+                "point": 0, 
+                "string": 0, 
+                "string+": 0
+            }
+        }, 
+        "1823039501": {
+            "variable_dict": {
+                "FLOAT": {
+                    "R": 0.0, 
+                    "R*X": 0.0, 
+                    "R*Y": 0.0, 
+                    "R*Z": 0.0, 
+                    "angle": 0.0, 
+                    "angleCamera": 0.0
+                }, 
+                "INTEGER": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "PLAYER": {
+                    "playerLead": 0
+                }, 
+                "POINT": {
+                    "pointAim": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unitLead": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "R": 0, 
+                "R*X": 0, 
+                "R*Y": 0, 
+                "R*Z": 0, 
+                "angle": 0, 
+                "angleCamera": 0, 
+                "playerLead": 0, 
+                "pointAim": 0, 
+                "unitLead": 0, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "1839591437": {
+            "variable_dict": {
+                "STRING": {
+                    "Key": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Key": 0
+            }
+        }, 
+        "1851801608": {
+            "variable_dict": {
+                "FLOAT": {
+                    "X": 0.0, 
+                    "Y": 0.0, 
+                    "Z": 0.0, 
+                    "height": 0.0, 
+                    "hight": 0.0
+                }, 
+                "INTEGER": {
+                    "X+": 0, 
+                    "Y+": 0, 
+                    "Z+": 0, 
+                    "intX": 0, 
+                    "intY": 0, 
+                    "intZ": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "Key": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "Key": 0, 
+                "X": 0, 
+                "X+": 0, 
+                "Y": 0, 
+                "Y+": 0, 
+                "Z": 0, 
+                "Z+": 0, 
+                "height": 0, 
+                "hight": 0, 
+                "intX": 0, 
+                "intY": 0, 
+                "intZ": 0, 
+                "point": 0
+            }
+        }, 
+        "1889083413": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x": 0.0, 
+                    "y": 0.0, 
+                    "z": 0.0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointTemp": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "point": 0, 
+                "pointTemp": 0, 
+                "x": 0, 
+                "y": 0, 
+                "z": 0
+            }
+        }, 
+        "1950609418": {
+            "variable_dict": {
+                "STRING": {
+                    "txt": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "txt": 0
+            }
+        }, 
+        "2019975177": {
+            "variable_dict": {
+                "FLOAT": {
+                    "hight": 0.0, 
+                    "x": 0.0, 
+                    "y": 0.0, 
+                    "z": 0.0
+                }, 
+                "INTEGER": {
+                    "intX": 0, 
+                    "intY": 0, 
+                    "intZ": 0, 
+                    "long": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "KeyAll": "", 
+                    "KeyTemp": "", 
+                    "KeyX": "", 
+                    "KeyY": "", 
+                    "KeyZ": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "KeyAll": 0, 
+                "KeyTemp": 0, 
+                "KeyX": 0, 
+                "KeyY": 0, 
+                "KeyZ": 0, 
+                "hight": 0, 
+                "intX": 0, 
+                "intY": 0, 
+                "intZ": 0, 
+                "long": 0, 
+                "point": 0, 
+                "x": 0, 
+                "y": 0, 
+                "z": 0
+            }
+        }, 
+        "2137583655": {
+            "variable_dict": {
+                "STRING": {
+                    "txt": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "txt": 0
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "BOOLEAN": {
+            "boolLock": false, 
+            "boolTalkEnd": false, 
+            "uiState": true
+        }, 
+        "FLOAT": {}, 
+        "INTEGER": {}, 
+        "PLAYER": {}, 
+        "STRING": {
+            "guideKey": ""
+        }, 
+        "UNIT_ENTITY": {
+            "unit": 0
+        }, 
+        "UNIT_GROUP": {
+            "unitGroupGame": []
+        }, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "unitGroupGame", 
+                "unitGroupGame_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "uiState", 
+                "uiState"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "unit", 
+                "unit"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "boolTalkEnd", 
+                "boolTalkEnd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "boolLock", 
+                "boolLock"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "guideKey", 
+                "guideKey"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "boolLock": 0, 
+        "boolTalkEnd": 0, 
+        "guideKey": 0, 
+        "uiState": 0, 
+        "unit": 0, 
+        "unitGroupGame": 0
+    }
+}
